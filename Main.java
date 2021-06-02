@@ -49,7 +49,7 @@ public class Main {
         System.out.println("Biaya kendaraan: " + MT.getBiaya_kendaraan());
         System.out.println("Biaya penumpang: " + MT.getBiaya_penumpang());
         MT.hitungTotal();
-        System.out.println("Total: " + (MT.getTotal()*100/500+MT.getTotal()));
+        System.out.println("Total: " + MT.getTotal());
     }
 }
 
