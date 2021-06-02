@@ -1,6 +1,4 @@
 public class Minibus extends Kendaraan {
-    protected int total;
-
     @Override
     public void setJenis(String jenisA) {
         super.setJenis(jenisA);
