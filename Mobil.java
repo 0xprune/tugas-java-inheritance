@@ -44,8 +44,7 @@ public class Mobil extends Kendaraan {
         super.hitungTotal();
     }
     @Override
-    public int getTotal() {
-        return super.getTotal();
+    public int getTtl() {
+        return super.getTtl();
     }
 }
-
